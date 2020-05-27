@@ -45,7 +45,7 @@ const [black_and_white, black,pink,]= 'cow sheep pig '.split(' ');
 
 const [r,o,y,g,b,i,v]= colors;
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg.
-const [, , , , ,indg,]=colors;
+const [indg]=colors;
 // Objects
 
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
