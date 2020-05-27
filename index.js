@@ -43,6 +43,12 @@ const k_muppet = {
 
 // Objects
 
+// 7. Use 
+
+// Objects
+
+// 7. Use 
+
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
 
 
